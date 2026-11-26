@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/YOUR_ORG/netflix-gitops.git
-    targetRevision: main
+    targetRevision: master
     path: charts/netflix-app
     helm:
       valueFiles:
