@@ -1,6 +1,6 @@
 replicaCount: 2
 image:
-  repository: REPLACE_WITH_ACCOUNT_ID.dkr.ecr.ap-south-1.amazonaws.com/netflix-app
+  repository: 571600864416.dkr.ecr.ap-south-1.amazonaws.com/netflix-app
   tag: "1"
   pullPolicy: IfNotPresent
 service:
